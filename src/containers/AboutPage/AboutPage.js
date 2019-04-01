@@ -35,20 +35,17 @@ const AboutPage = () => {
         </LayoutWrapperTopbar>
 
         <LayoutWrapperMain className={css.staticPageWrapper}>
-          <h1 className={css.pageTitle}>Experience the unique Finnish home sauna.</h1>
+          <h1 className={css.pageTitle}>About Us</h1>
           <img className={css.coverImage} src={image} alt="My first ice cream." />
 
           <div className={css.contentWrapper}>
             <div className={css.contentSide}>
-              <p>Did you know that Finland has 3.2 million saunas - almost one sauna per person!</p>
+              <p>Sneakers are better than Suanas</p>
             </div>
 
             <div className={css.contentMain}>
               <h2>
-                Most of the Finnish saunas are located at the homes of individuals - indeed, most
-                people in Finland live in an apartment with sauna in it. In addition, lots of people
-                have lakeside summer cottages, which also typically come with a separate sauna
-                building near the waterfront.
+                Hello
               </h2>
 
               <p>
